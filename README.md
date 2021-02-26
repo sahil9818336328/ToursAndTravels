@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-View my deployed app at :- https://tours-and-travels.netlify.app/
+View my deployed app at :- https://vibrant-euler-7dff2f.netlify.app/
 
 ## Available Scripts
 
