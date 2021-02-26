@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-View my deployed app at :- https://sahil9818336328.github.io/Tours-Travels/
+View my deployed app at :- https://romantic-payne-821a7d.netlify.app/
 
 ## Available Scripts
 
