@@ -16,7 +16,7 @@ const Tour = ({ id, image, info, name, price, removeTour }) => {
             {readmore ? "show less" : "show more"}
           </button>
         </p>
-        <button className="delete-btn" onClick={() => removeTour(id)}>
+        <button className="delete-btn" onClick={() => removeTour(id)}>// prop drilling
           not intrested
         </button>
       </footer>
