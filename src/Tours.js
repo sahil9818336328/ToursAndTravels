@@ -13,7 +13,7 @@ const Tours = ({ items, removeTour }) => {
       </div>
       <div>
         {items.map((item) => {
-          return <Tour key={item.id} {...item} removeTour={removeTour} />; //prop drilling//...item contains object
+          return <Tour key={item.id} {...item} removeTour={removeTour} />; //...item contains object
         })}
       </div>
     </section>
